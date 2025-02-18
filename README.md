@@ -1,5 +1,3 @@
-## Hi there 
-I M DHARSANA SP 
-I M CURRENTLY PURSUING COMPUTER SCIENCE AND DESIGN IN KONGU ENGINEERING COLLEGE 3RD YEAR.
-I M ENTHUSIAST WITH A STRONG FOCUS ON DESIGN , INCLUDING UI/UX DESIGN . SKILLED IN CODING , AUTOMATION, AND NETWORK SECURITY.
-
+I’m Dharsana SP, a third-year student currently pursuing a degree in Computer Science and Design at Kongu Engineering College. 
+I have a deep passion for design, particularly in UI/UX, and I'm skilled in coding, automation, and network security. 
+I also actively contribute to GitHub, continuously improving my technical and design skills.
